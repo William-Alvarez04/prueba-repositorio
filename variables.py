@@ -5,7 +5,7 @@ nombreCompletoDeTuTioMaster = "Lucas Dalto"
 #Definiendo una variable con snake_case
 nombre_completo_de_tu_tio_master = "Lucas Dalto"
 
-nombre= "Lucas Dalto"
+nombre= "Soy"
 
 #concatenar con +
 bienvenida = "Hola " + "¿Como estas?"
